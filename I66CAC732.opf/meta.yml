@@ -1,0 +1,28 @@
+id: I66CAC732
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 10:39:34.583872+00:00
+last_modified: 2022-12-14 10:39:34.583876+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-08-29T05:21:12.219Z'
+  creationid: kent
+  eft-text-id: UT22084-068-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_267-Calling_Witness_with_a_Hundred_Prostrations-v1
+bases:
+  BF7A:
+    source_metadata: null
+    order: 1
+    base_file: BF7A.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
